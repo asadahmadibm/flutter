@@ -105,3 +105,13 @@ in main.dart :
      
      await prefs.getInt('num');
      await prefs.getStringList('items');
+
+# Change Name
+	change android:label in AndroidManifest.xml in andriod/app/src/main
+# Change Icon
+	1- Get Image 
+ 	2- Goto App Icon Generator Site & Make Icons For Andriod & Ios & ... & download
+  	3- For Andriod Replace Directory in android\app\src\main\res
+   	4- For Ios Replace Directory In ios\Runner\Assets.xcassets\AppIcon.appiconset
+  	
+  	
