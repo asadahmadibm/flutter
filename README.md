@@ -18,7 +18,9 @@ andriod command line tools
 
     flutter create my_app or flutter create .
     flutter run lib/main.dart
+    flutter run -d chrome
     flutter build apk --release
+    flutter build web
     output for windows C:\flutter2\build\windows\runner\Debug
     
 
