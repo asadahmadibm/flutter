@@ -18,7 +18,9 @@ andriod command line tools
 
     flutter create my_app or flutter create .
     flutter run lib/main.dart
+    flutter build apk --release
     output for windows C:\flutter2\build\windows\runner\Debug
+    
 
 # مهمترین فایلها
     lib/main.dart
